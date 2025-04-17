@@ -13,3 +13,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [v] List syntax is required
+- [v] This item is complete
+- [ ] This item is not complte
