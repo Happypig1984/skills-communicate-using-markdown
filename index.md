@@ -14,6 +14,12 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+``` python
+def myVar(a,b):
+  return c= a+b
+
+```
+
 - [X] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complte
